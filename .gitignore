@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/AwsLambdaCrudApi/bin/Debug/net8.0
+/src/AwsLambdaCrudApi/obj
+/.vs
